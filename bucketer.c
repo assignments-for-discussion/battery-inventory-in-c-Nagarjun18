@@ -25,5 +25,5 @@ void testBucketingByNumberOfCycles() {
 
 int main() {
   testBucketingByNumberOfCycles();
-  return 0;
+    return 0;
 }
